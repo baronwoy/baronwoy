@@ -17,6 +17,7 @@ Languages:
 Developer Tools: 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%49C68D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Libraries/Frameworks: 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
