@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year AI/CS student @ Edinburgh, i like to code and i'm interested in ML
+I am a second year AI/CS student @ Edinburgh, i like to code and i'm interested in ML
 ## 🌐 Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/baronwoy)
 
